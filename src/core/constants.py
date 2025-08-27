@@ -1,0 +1,35 @@
+"""
+Constantes do jogo StellarClash
+"""
+
+# Configurações da tela
+SCREEN_WIDTH = 1024
+SCREEN_HEIGHT = 768
+FPS = 60
+
+# Cores
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+CYAN = (0, 255, 255)
+PURPLE = (255, 0, 255)
+GRAY = (128, 128, 128)
+ORANGE = (255, 165, 0)
+
+# Configurações de gameplay
+PLAYER_SPEED = 300
+PLAYER_SHOT_COOLDOWN = 0.15
+PLAYER_INVULNERABLE_DURATION = 2.0
+
+# Configurações de spawn
+ASTEROID_SPAWN_RATE = 2.0
+ENEMY_SPAWN_RATE = 3.0
+WAVE_DELAY = 3.0
+
+# Configurações de power-ups
+POWERUP_LIFETIME = 10.0
+POWERUP_DROP_CHANCE_ASTEROID = 0.15
+POWERUP_DROP_CHANCE_ENEMY = 0.2

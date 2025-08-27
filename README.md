@@ -1,4 +1,4 @@
-# Astromarujo 🚀
+# StellarClash 🚀
 
 Um jogo de tiro espacial de cima para baixo (top-down shooter) inspirado em clássicos como Asteroids e Space Invaders.
 
@@ -56,7 +56,7 @@ pip install pygame numpy
 ### Executar o jogo
 
 ```bash
-python astromarujo.py
+python main.py
 ```
 
 ## Características
